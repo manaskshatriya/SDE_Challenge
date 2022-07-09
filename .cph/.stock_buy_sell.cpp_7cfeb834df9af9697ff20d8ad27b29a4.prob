@@ -1,0 +1,1 @@
+{"name":"Local: stock_buy_sell","url":"d:\\CPP\\SDE_Challenge\\stock_buy_sell.cpp","tests":[{"id":1657362722288,"input":"6\n7 1 5 3 6 4","output":"5"},{"id":1657362765796,"input":"5\n7 6 4 3 1","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CPP\\SDE_Challenge\\stock_buy_sell.cpp","group":"local","local":true}
